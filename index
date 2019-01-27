@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Photo site</title>
+	<link href="C:/Users/Sara/Desktop/practice/style.css" rel="stylesheet">
+	
+</head>
+<body bgcolor="black">
+	<menu id="main-nav">
+        <ul id="nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="Serial.html">Cериалы</a></li>
+            <li class="dropdown">
+                Фильмы
+                <ul class="dropdown-list">
+                    <li class="a">Документальные</li>
+                    <li class="sub-dropdown a">Художественные 
+                        
+                    </li>
+                    <li  class="a">Хочу посмотреть</li>
+                </ul>
+            </li>
+            <li>Планы</li>
+            <li>HTML</li>
+        </ul>
